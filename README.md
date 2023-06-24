@@ -12,11 +12,11 @@ The Bangazon E-commerce Platform aims to provide a comprehensive online shopping
 
 To ensure a successful project, we have carefully planned each phase. Our planning documentation covers all the important aspects of the project, including:
 
-- Detailed project requirements: We have documented the specific features and functionalities requested by the client. These requirements serve as our roadmap throughout the development process.
+- [Detailed project requirements](./documentation/planning.md): We have documented the specific features and functionalities requested by the client. These requirements serve as our roadmap throughout the development process.
 
-- Tickets for Planning and Tracking: We have created a set of tickets to capture the planning process and track our progress. These tickets break down the project into manageable tasks, ensuring that every aspect of the project is accounted for. By assigning and tracking these tickets, we can stay organized and monitor our progress effectively.
+- [Tickets for Planning and Tracking](./documentation/tickets.md): We have created a set of tickets to capture the planning process and track our progress. These tickets break down the project into manageable tasks, ensuring that every aspect of the project is accounted for. By assigning and tracking these tickets, we can stay organized and monitor our progress effectively.
 
-- Client Feature Requirements: We have compiled a list of features that the client is asking for. These features include customer registration and authentication, product viewing and searching, shopping cart and order management, product and seller details, profile management, and product categories.
+- [Client Feature Requirements](./documentation/client-feature-requirements.md): We have compiled a list of features that the client is asking for. These features include customer registration and authentication, product viewing and searching, shopping cart and order management, product and seller details, profile management, and product categories.
 
 ## Planning and Implementation Guidelines
 
