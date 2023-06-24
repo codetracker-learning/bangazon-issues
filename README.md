@@ -32,6 +32,23 @@ We want to ensure that our project meets the client's expectations and adheres t
 
 - Coding Standards: We will adhere to the Python Community's coding guidelines. This includes following consistent naming conventions, documenting classes and methods with docstrings, using proper indentation, and maintaining clean and readable code.
 
+## Planning Process Tracking
+
+The Senior Engineer has created a set of tickets to help you track your progress and ensure a systematic approach to the planning tasks. These tickets are designed to guide you through the essential steps of the planning process and provide checklists for tracking subtasks within each item.
+
+To facilitate an organized workflow, it is recommended to follow the suggested order when completing the tickets:
+
+1. Create Project Board
+2. Define MVP Features
+3. Write ERD
+4. Create Wireframe
+5. Create Presentation
+6. Submit Proposal Links
+7. Conduct Proposal Approval Meeting
+8. MVP Approval Checklist
+
+By following this order, you can build a solid foundation for the project and ensure that each step is completed in a logical sequence. Each ticket contains detailed instructions and checklists to assist you in accomplishing the necessary subtasks. Feel free to refer to the individual tickets for more information and to track your progress effectively.
+
 ## Support and Mentorship
 
 Throughout the project, our dedicated team of senior engineers will provide guidance and support. They are here to assist you in understanding concepts, tools, and practices. While they will be working on their own projects, they will be available to review discussion tickets, provide feedback, and answer questions during designated meeting times.
