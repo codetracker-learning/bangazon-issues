@@ -6,7 +6,7 @@
 - **When** a customer is viewing a seller's store
 - **Then** they will see all the products that the seller has available
 
-Potential Implementation Ideas
+### Potential Implementation Ideas
 
 - Potentially create a new endpoint that includes product information with the seller
 - Potentially refactor the existing seller endpoint to include product information
@@ -32,7 +32,7 @@ Potential Implementation Ideas
 - **Then** there should be a section dedicated to orders with their products
 - **And** they should be able to see the customers that placed each order
 
-API Routes
+### API Routes
 
 - `api/order/history/seller` should return the orders where the logged-in user has a product on the order
 
@@ -54,7 +54,7 @@ API Routes
 - **When** the customer navigates to the Orders view
 - **Then** they should see a list of their completed orders
 
-Potential Implementations Ideas:
+### Potential Implementations Ideas:
 
 - Potentially create a new endpoint that includes only completed Orders
 - Potentially create a query string parameter `?completed=true` to optionally include completed orders
@@ -73,7 +73,7 @@ Potential Implementations Ideas:
 - **Then** order details should be displayed
 - **And** a user should be able to see the sellers info for a given order
 
-Order API Routes:
+### Order API Routes:
 
 - `api/orders` should return the orders for the logged-in user
 - `api/orders/sellers` should return the orders for the logged-in user, along with the seller's info for each product on each order
@@ -84,8 +84,7 @@ Order API Routes:
 - **When** they navigate to the seller area
 - **Then** they should arrive at a dashboard
 
-Dashboard data to display:
-
+### Dashboard data to display:
 - Total Sales
     - Total this month
     - Average per item
@@ -121,8 +120,7 @@ Dashboard data to display:
 - **Given** A user is logged in
 - **Then** they should be able to search for a seller
 
-If the query string parameter of `q` is provided when querying the list of customers, then any customer that has a property value that matches the pattern should be returned.
-
+- If the query string parameter of `q` is provided when querying the list of customers, then any customer that has a property value that matches the pattern should be returned.
 - If `/customers?q=mic` is requested, then any customer whose first name is Michelle, or Michael, or Domicio should be returned. Any customer whose last name is Michaelangelo, Omici, or Dibromic should be returned. Every property of the customer object should be checked for a match.
 
 ## Title: Customer can add products to a cart
@@ -177,6 +175,8 @@ Sporting Goods (7)
 - **When** placing their order
 - **Then** they should be asked for a payment type
 - And **Then** they should select a payment type that they have defined
+
+--
 
 - **Given** a customer with a shopping cart with products in it
 - **And** the customer does not have a payment method defined
