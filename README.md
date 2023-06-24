@@ -38,14 +38,14 @@ The Senior Engineer has created a set of tickets to help you track your progress
 
 To facilitate an organized workflow, it is recommended to follow the suggested order when completing the tickets:
 
-1. Create Project Board
-2. Define MVP Features
-3. Write ERD
-4. Create Wireframe
-5. Create Presentation
-6. Submit Proposal Links
-7. Conduct Proposal Approval Meeting
-8. MVP Approval Checklist
+1. [Create Project Board](./documentation/process-tickets.md#ticket-create-project-board)
+2. [Define MVP Features](./documentation/process-tickets.md#ticket-define-mvp-features)
+3. [Write ERD](./documentation/process-tickets.md#ticket-write-erd)
+4. [Create Wireframe](./documentation/process-tickets.md#ticket-create-wireframe)
+5. [Create Presentation](./documentation/process-tickets.md#ticket-create-presentation)
+6. [Submit Proposal Links](./documentation/process-tickets.md#ticket-submit-proposal-links)
+7. [Conduct Proposal Approval Meeting](./documentation/process-tickets.md#ticket-conduct-proposal-approval-meeting)
+8. [MVP Approval Checklist](./documentation/process-tickets.md#ticket-mvp-approval-checklist)
 
 By following this order, you can build a solid foundation for the project and ensure that each step is completed in a logical sequence. Each ticket contains detailed instructions and checklists to assist you in accomplishing the necessary subtasks. Feel free to refer to the individual tickets for more information and to track your progress effectively.
 
