@@ -23,7 +23,7 @@
 - **Given** a user has products in their shopping cart
 - **When** viewing their cart
 - **Then** they should see the product name and price of each product they are ordering
-- **And** Then they should be able to see the total amount of their order
+- **And** they should be able to see the total amount of their order
 
 ## Title: Allow sellers to see orders with their products on them
 
@@ -38,9 +38,9 @@
 
 ## Title: User Can View Product Detail
 
-- **Given** user is viewing any page that contains a hyperlink for a product
-- **When** user clicks on the product hyperlink
-- **Then** user will be shown the product detail page containing the title, description, quantity available, price per unit, and a button labeled *Add to Cart*
+- **Given** the user is viewing any page that contains a hyperlink for a product
+- **When** the user clicks on the product hyperlink
+- **Then** the user will be shown the product detail page containing the title, description, quantity available, price per unit, and a button labeled *Add to Cart*
 
 ## Title: Customer should be able to view product information when viewing order details
 
@@ -54,7 +54,7 @@
 - **When** the customer navigates to the Orders view
 - **Then** they should see a list of their completed orders
 
-### Potential Implementations Ideas:
+### Potential Implementation Ideas:
 
 - Potentially create a new endpoint that includes only completed Orders
 - Potentially create a query string parameter `?completed=true` to optionally include completed orders
@@ -64,14 +64,14 @@
 - **Given** sellers have items to purchase
 - **When** the user clicks on the search input field in the navigation bar
 - **And** the user types the name of a product
-- **When** pressed the enter key
-- **Then** products matching the keyword shown on the page
+- **When** the enter key is pressed
+- **Then** products matching the keyword will be shown on the page
 
 ## Title: Customer should be able to view order history
 
-- **When** A user navigates to the order history page
+- **When** a user navigates to the order history page
 - **Then** order details should be displayed
-- **And** a user should be able to see the sellers info for a given order
+- **And** a user should be able to see the seller's info for a given order
 
 ### Order API Routes:
 
@@ -113,7 +113,7 @@
 
 - **Given** a customer is on a product detail page
 - **When** clicking on a seller's name
-- **They** should be taken to a Seller's store
+- **Then** they should be taken to a Seller's store
 
 ## Title: Search for Seller by text
 
@@ -174,10 +174,7 @@ Sporting Goods (7)
 - **Given** a customer with a shopping cart with products in it
 - **When** placing their order
 - **Then** they should be asked for a payment type
-- And **Then** they should select a payment type that they have defined
-
---
-
+- **And** they should select a payment type that they have defined
 - **Given** a customer with a shopping cart with products in it
 - **And** the customer does not have a payment method defined
 - **When** placing their order
