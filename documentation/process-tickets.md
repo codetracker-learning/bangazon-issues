@@ -69,9 +69,7 @@ By completing this ticket, you will have defined the MVP features for the Bangaz
 Conduct a meeting with the seniors and product manager to gather additional insights, clarify requirements, and seek approval for the proposed plan.
 
 **Checklist:**
-- [ ] Present the proposed plan, including the ER
-
-D, wireframes, and MVP features.
+- [ ] Present the proposed plan, including the ERD, wireframes, and MVP features.
 - [ ] Actively listen to the client's feedback, questions, and concerns.
 - [ ] Seek clarification on any ambiguous requirements or expectations.
 - [ ] Discuss potential enhancements or modifications based on client input.
@@ -92,10 +90,6 @@ Submit the necessary links for the proposal of the Bangazon E-commerce Platform.
 Ensure that all the links are accessible by the instructional team and submitted within the designated timeframe.
 
 By completing this ticket, you will provide the necessary documentation for the proposal presentation and enable the instructional team to review your progress effectively.
-
-
-
-
 
 
 ## Ticket: MVP Approval Checklist
