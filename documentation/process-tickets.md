@@ -98,7 +98,7 @@ By completing this ticket, you will provide the necessary documentation for the 
 Before finalizing the Minimum Viable Product (MVP) for the Bangazon E-commerce Platform, it is essential to ensure that the project meets all the Student Assessment Requirements. Use this checklist to review your project and verify compliance with the necessary criteria.
 
 **Checklist:**
-- [ ] Backend Framework: Confirm that you have used the backend framework taught during the course (e.g., ASP.NET, Django, etc.).
+- [ ] Backend Framework/SQL Server: Confirm that you have used the backend framework/SQL connector taught during the course (e.g., ASP.NET, Django, Request Handler, SQL Server, etc.).
 - [ ] Frontend Libraries/Frameworks: Verify that you have utilized the major frontend libraries and/or frameworks learned during the course (e.g., React, etc.).
 - [ ] Multiple Routes: Ensure that your application supports multiple routes to display different views to the user, and users can navigate to each route/view.
 - [ ] Single Responsibility Principle: Demonstrate proficiency by following the Single Responsibility Principle and writing modular code where each module has a single responsibility (e.g., displaying a list of things, displaying a single thing, managing application state, etc.).
