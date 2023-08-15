@@ -30,8 +30,8 @@ We want to ensure that our project meets the client's expectations and adheres t
 
 - Collaboration and Communication: We will utilize GitHub Discussion Tickets for seeking assistance, discussing project-related topics, and keeping track of our planning process. This collaborative approach ensures efficient communication and allows the team to provide guidance, support, and feedback throughout the project.
 
-- Coding Standards: We will adhere to the Python Community's coding guidelines. This includes following consistent naming conventions, documenting classes and methods with docstrings, using proper indentation, and maintaining clean and readable code.
-
+- Coding Standards: We will follow the community coding guidelines for the specific language you are building this in. This includes using consistent naming conventions, documenting classes and methods with docstrings, using proper indentation, and maintaining clean and readable code.
+  
 ## Planning Process Tracking
 
 The Senior Engineer has created a set of tickets to help you track your progress and ensure a systematic approach to the planning tasks. These tickets are designed to guide you through the essential steps of the planning process and provide checklists for tracking subtasks within each item.
