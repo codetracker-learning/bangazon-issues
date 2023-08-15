@@ -24,7 +24,7 @@ During the planning phase, consider the following tips to assist with data manag
 
 ## Student Assessment Requirements
 Ensure your project meets the following requirements:
-- Utilize the backend framework taught during the course (e.g., ASP.NET, Django).
+- Utilize the backend framework or database taught during the course (e.g., ASP.NET or SQL Server, Django or Python's sqlite package).
 - Use the major frontend libraries and/or frameworks learned during the course (e.g., React).
 - Support multiple routes to display different views to the user, allowing seamless navigation.
 - Demonstrate proficiency by following the Single Responsibility Principle and writing modular code.
