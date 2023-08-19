@@ -22,6 +22,10 @@ Attendees: Product Manager, Client
 
 The following features were discussed in detail:
 
+- **Users will be both customers and sellers:**
+  - Every user will have the ability to act as a customer, buying products from other sellers, and as a seller, creating, updating, and deleting their own products.
+  - Sellers can manage their own inventory and view their sales history.
+
 - **Customer should be able to view products that a seller is selling:**
   - Customers should be able to view all products available from a specific seller.
   - Potential implementation ideas were shared, including creating a new endpoint or enhancing the existing seller endpoint.
@@ -100,3 +104,4 @@ The following features were discussed in detail:
 - The Product Manager assured the client that their requirements and preferences will be considered throughout the development process.
 
 Note: These meeting notes are for internal use and will be shared with the assigned engineer to ensure accurate implementation of the discussed features.
+
