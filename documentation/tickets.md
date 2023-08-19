@@ -189,3 +189,29 @@ Sporting Goods (7)
 - **And** the customer does not have a payment method defined
 - **When** placing their order
 - **Then** they should be asked to define a payment method
+
+## Title: Users can create a new product listing
+
+- **Given** a seller user is logged in
+- **When** they navigate to their seller dashboard
+- **Then** they should have an option to create a new product listing
+- **And** they should be able to provide the product title, description, quantity available, and price per unit
+- **And** after submitting the form, the new product should be added to their inventory
+
+## Title: Users can update their existing product listings
+
+- **Given** a seller user has existing product listings
+- **When** they navigate to their seller dashboard
+- **And** they select a product to edit
+- **Then** they should be able to modify the product title, description, quantity available, and price per unit
+- **And** after submitting the changes, the updated product information should be reflected in their inventory
+
+## Title: Users can delete their existing product listings
+
+- **Given** a seller user has existing product listings
+- **When** they navigate to their seller dashboard
+- **And** they select a product to delete
+- **Then** they should have an option to delete the product
+- **And** after confirming the deletion, the product should be removed from their inventory
+
+Note: These ticket descriptions are for internal use and will be shared with the engineering team to ensure accurate implementation of the discussed features.
